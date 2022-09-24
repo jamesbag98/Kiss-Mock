@@ -1,2 +1,2 @@
 # Kiss-Mock
-Mock design of Kiss Fitness Centre website
+Mock design of Kiss Fitness Centre website!
